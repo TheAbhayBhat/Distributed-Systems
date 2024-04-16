@@ -1,4 +1,4 @@
-                                                                            # Distributed System
+                                                                    # Distributed System
 ### Pre-requisites:
 
 1. JDK-8
