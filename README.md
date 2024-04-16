@@ -8,7 +8,7 @@
         sudo apt install openjdk-8-jdk openjdk-8-jre
         java -version // it should have version start with 1.8... etc 
     
-3. Download [MPJ Express](https://sourceforge.net/projects/mpjexpress/files/releases/mpj-v0_44.tar.gz/download) & extract in Downloads         
+3. Download [MPJ Express](https://sourceforge.net/projects/mpjexpress/files/releases/mpj-v0_44.tar.gz/download) & extract it in Downloads         
  
 4. Install Apache Netbeans (It will be Easier to work with Netbeans on Windows than Ubuntu)
             
