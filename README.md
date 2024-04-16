@@ -15,9 +15,9 @@
          sudo apt update && sudo apt upgrade
          sudo snap install netbeans --classic
 
-     Glassfish server version must be 4.1.1
-   
-       Windows: [NetBeans for Windows 8.2](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazNzTWYtMG93eUMwXzJHb2RDRm1KaFp1YlRyUXxBQ3Jtc0ttWWpvRHZHZzM4MUNYRndTaUxwRUxVUVltZU1PSWZ4X0dPRUZxU0NMWEE1SzlCMk5TVlhMN2R4R2pxSFpDODdhUlJsUVJUTXc4QTN2cWlIaE5oMWVKWGliTTZUUm1ueFFTNE5xeG51NUVFRnJtS25LRQ&q=https%3A%2F%2Fbit.ly%2F3MMVGTe&v=ASd1S-_HLWw)
+     Glassfish server version must be 4.1.1 
+
+      Windows: [NetBeans for Windows 8.2](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazNzTWYtMG93eUMwXzJHb2RDRm1KaFp1YlRyUXxBQ3Jtc0ttWWpvRHZHZzM4MUNYRndTaUxwRUxVUVltZU1PSWZ4X0dPRUZxU0NMWEE1SzlCMk5TVlhMN2R4R2pxSFpDODdhUlJsUVJUTXc4QTN2cWlIaE5oMWVKWGliTTZUUm1ueFFTNE5xeG51NUVFRnJtS25LRQ&q=https%3A%2F%2Fbit.ly%2F3MMVGTe&v=ASd1S-_HLWw)
        
 
 ### Assignment 1:
