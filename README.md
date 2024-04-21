@@ -71,6 +71,25 @@ Terminal 2:
 
     python server.py
 
+ ### Assignment 5:
+ Commands to run Berkeley algo in java
+
+Terminal 1
+javac *.java
+rmiregistry
+
+Terminal 2:
+java Clock_One
+
+Terminal 3:
+java Clock_Two
+
+Terminal 4:
+java Clock_Three
+
+Terminal 5:
+java MainClock
+
 ### Assignment 5:
 
 Terminal
