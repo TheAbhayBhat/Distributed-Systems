@@ -12,8 +12,9 @@
  
 4. Install Apache Netbeans (It will be Easier to work with Netbeans on Windows than Ubuntu)
             
-         sudo apt update && sudo apt upgrade
-         sudo snap install netbeans --classic
+        Download [NetBeans 8.2 With Glassfish 4.1.1](https://drive.google.com/file/d/1Cg3Tn8ALQlrFyEGO3e6lH4h8cvECDylu/view?usp=sharing)
+           To Install :
+                      sudo bash [file_name.sh]
 
      Glassfish server version must be 4.1.1 
 
