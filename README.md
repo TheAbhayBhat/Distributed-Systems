@@ -41,8 +41,19 @@ Terminal 3:
 Terminal 4:
 
     java AddClient 127.0.0.1 5 8  // The Number of Arguments are Specified after localhost address.
+    
 
-### Assignment 2: (if You are getting error in this or next assignment then issue is with Java Version it works with Java 8 only as it is depreciated after Java 8 :)     
+### Assignment 2: (Specify Path Properly Don't Just Copy Paste the Command ;)
+
+Terminal:
+
+    export MPJ_HOME=/home/ubuntu/Downloads/mpj-v0_44
+    export PATH=$MPJ_HOME/bin:$PATH
+    javac -cp $MPJ_HOME/lib/mpj.jar ArrSum.java
+    $MPJ_HOME/bin/mpjrun.sh -np 4 ArrSum  // Specified value of n=4 here 
+
+
+### Assignment 3: (if You are getting error in this or next assignment then issue is with Java Version it works with Java 8 only as it is depreciated after Java 8 :)     
 Terminal 1:
 
     idlj -fall ReverseModule.idl
@@ -53,15 +64,6 @@ Terminal 1:
 Terminal 2:
 
     java ReverseClient -ORBInitialPort 1056 -ORBInitialHost localhost
-
-### Assignment 3: (Specify Path Properly Don't Just Copy Paste the Command ;)
-
-Terminal:
-
-    export MPJ_HOME=/home/ubuntu/Downloads/mpj-v0_44
-    export PATH=$MPJ_HOME/bin:$PATH
-    javac -cp $MPJ_HOME/lib/mpj.jar ArrSum.java
-    $MPJ_HOME/bin/mpjrun.sh -np 4 ArrSum  // Specified value of n=4 here 
 
 ### Assignment 4:
 
