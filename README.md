@@ -81,22 +81,23 @@ Terminal 2:
 ### Assignment 4:
 Commands to run Berkeley algo in Berkeley Folder(Short code)
 
-terminal 1:
+Commands to run Berkeley algo in java
+
+Terminal 1
 javac *.java
-rmic AddServerImpl
 rmiregistry
 
-terminal 2:
-java C1 c1 03:25:00
+Terminal 2:
+java Clock_One
 
-terminal 3:
-java C1 c2 03:00:00
+Terminal 3:
+java Clock_Two
 
-terminal 4:
-java C1 c3 02:55:00
+Terminal 4:
+java Clock_Three
 
-terminal 5:
-java MainClock c1 c2 c3
+Terminal 5:
+java MainClock
 
 
 ### Assignment 5:
