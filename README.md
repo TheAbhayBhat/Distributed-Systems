@@ -84,20 +84,25 @@ Commands to run Berkeley algo in Berkeley Folder(Short code)
 Commands to run Berkeley algo in java
 
 Terminal 1
-javac *.java
-rmiregistry
+
+    javac *.java
+    rmiregistry
 
 Terminal 2:
-java Clock_One
+
+    java Clock_One
 
 Terminal 3:
-java Clock_Two
+
+    java Clock_Two
 
 Terminal 4:
-java Clock_Three
+
+    java Clock_Three
 
 Terminal 5:
-java MainClock
+
+    java MainClock
 
 
 ### Assignment 5:
