@@ -93,7 +93,7 @@ Commands to run Berkeley algo in Berkeley Folder(Short code) 4-File code
   java C1 c2 03:00:00
 
   Terminal 4:
-  java C1 c1 02:55:00
+  java C1 c3 02:55:00
 
   Terminal 5:
   java MainClock c1 c2 c3
